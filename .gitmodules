@@ -1,0 +1,6 @@
+[submodule "lunamark"]
+	path = lunamark
+	url = http://github.com/jgm/lunamark.git
+[submodule "dzslides"]
+	path = dzslides
+	url = https://github.com/paulrouget/dzslides.git
