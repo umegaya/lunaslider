@@ -6,6 +6,11 @@
 <!-- Your Slides -->
 %MY_SLIDE%
 <!-- Your Style -->
+<style>
+ .em {
+	color: red;
+ }
+</style>
 <!-- Define the style of your presentation -->
 
 <!-- Maybe a font from http://www.google.com/webfonts ? -->
@@ -618,4 +623,3 @@
 
 </script>
 <!-- vim: set fdm=marker: }}} -->
-	1
