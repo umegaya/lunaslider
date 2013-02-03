@@ -44,17 +44,24 @@
     text-align: center;
     font-size: 80px;
   }
+  h2 {
+    font-size: 60px;
+  }
   h3 {
-    margin: 100px 0 50px 100px;
+    margin: 100px 20px 20px 50px;
   }
 
   ul {
-      margin: 50px 200px;
+      margin: 20px 50px;
+  }
+  li {
+    font-size: 20px;
+    margin-left: 20px;
   }
 
   p {
-    margin: 75px;
-    font-size: 50px;
+    margin: 20px 20px 20px 50px;
+    font-size: 30px;
   }
 
   blockquote {
